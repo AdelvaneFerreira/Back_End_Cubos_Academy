@@ -1,4 +1,4 @@
-let fahrenheit = 35
+let fahrenheit = 73
 let celsius = 0
 
 const conversao = ( fahrenheit - 32) * (5/9)
