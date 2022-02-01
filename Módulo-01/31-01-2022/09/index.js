@@ -1,0 +1,1 @@
+//Soma dos ângulos internos de um polígono
